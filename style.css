@@ -1,0 +1,59 @@
+#header{
+  text-align: center;
+  font-size: 80px;
+}
+@media only screen and (max-width: 1000px) {
+ 
+.graph-container {
+  position: relative;
+  margin: auto;
+  width:50vw;
+  text-align: center;
+  
+}
+}
+@media only screen and (min-width: 1001px) {
+ .graphs {
+   display: flex;
+   flex-wrap: nowrap;
+ }
+ .graphs > div {
+   flex: 1; /*grow*/
+ }
+ 
+.graph-container {
+  position: relative;
+  margin: auto;
+  width:33vw;
+  text-align: center;
+  
+}
+}
+#expense-box{
+  border:1px;
+  overflow: auto;
+  display: block;
+  overflow-y: auto;
+  height:20vw;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow-y: auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+thead {
+    font-weight: bold;
+}
