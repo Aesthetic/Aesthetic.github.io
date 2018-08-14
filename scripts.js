@@ -1,5 +1,5 @@
 var expenses = [
-  { price: 1000, itemName: 'Eggs', date: '07/23/09', cat: 'Activity'},
+  //{ price: 1000, itemName: 'Eggs', date: '07/23/09', cat: 'Activity'},
 ];
 
 
