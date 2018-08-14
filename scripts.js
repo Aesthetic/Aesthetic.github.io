@@ -133,7 +133,7 @@ var generalMoney = spendableCash * .40 - generalExpenses;
 var activityMoney = spendableCash * .60 - activityExpenses;
 
 var tmLabels = ["Class Activities", "General Expenses", "End of Year Donation"];
-var tmData = [activityMoney, generalMoney, classDonation];
+var tmData = [activityMoney.toFixed(2), generalMoney.toFixed(2), classDonation.toFixed(2)];
 var breakdownPieCanvas = document.getElementById("breakdownPie").getContext('2d');
 var breakdownPie = new Chart(breakdownPieCanvas, {
   type: 'pie',
