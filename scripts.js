@@ -98,7 +98,7 @@ var dynamicTable = (function() {
 $(document).ready(function(e) {
 
   var dt = dynamicTable.config('expense-table', ['itemName', 'price', 'date', 'cat'], ['Item', 'Price', 'Date', 'Type'], //set to null for field names instead of custom header names
-    'There have be no expenses...');
+    'There have been no expenses...');
   dt.load(expenses);
 });
 
