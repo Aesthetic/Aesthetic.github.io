@@ -103,8 +103,8 @@ $(document).ready(function(e) {
   dt.load(expenses);
 });
 
-var motLabels = ["05/24/18","08/29/18"]
-var motData = [5053.66,5053.66]
+var motLabels = ["05/24/18"]
+var motData = [5053.66]
 
 var generalExpenses = 0;
 var activityExpenses = 0;
