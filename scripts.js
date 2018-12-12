@@ -1,7 +1,8 @@
-var expenses = [
+﻿var expenses = [
   //{ price: 1000, itemName: 'Eggs', date: '07/23/09', cat: 'Activity'},
 	  {price: 37.98, itemName: 'Cornhole Bean Bags', date: '08/22/18', cat:'General'},
-	  {price: -890.54, itemName: 'Bake Sale Income', date: '09/12/18', cat:'Class Activities'},
+	  {price: -450.27, itemName: 'Bake Sale Income', date: '09/12/18', cat:'Class Activities'},
+	  {price: -450.27, itemName: 'Bake Sale Income', date: '09/12/18', cat:'General'},
 	  {price: 78.95, itemName: 'Gift Tags', date: '11/27/18', cat:'General'}
 ];
 
@@ -122,7 +123,7 @@ for(var i = 0; i < expenses.length; i++){
   }
 }
 var totalMoney = motData[motData.length-1]
-document.getElementById('total').innerHTML = '$'+ totalMoney;
+document.getElementById('total').innerHTML = '$'+ totalMoney.toFixed(2);
 
 
 
