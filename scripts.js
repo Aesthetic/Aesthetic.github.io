@@ -50,3 +50,23 @@ window.setInterval(() => {
     
   }
 }, 90);
+
+document.getElementById('D3Cube').onclick = function changeContent() {
+
+   document.getElementById('side1').style.backgroundColor = getRandomColor();
+   document.getElementById('side2').style.backgroundColor = getRandomColor();
+   document.getElementById('side3').style.backgroundColor = getRandomColor();
+   document.getElementById('side4').style.backgroundColor = getRandomColor();
+   document.getElementById('side5').style.backgroundColor = getRandomColor();
+   document.getElementById('side6').style.backgroundColor = getRandomColor();
+
+}
+
+function getRandomColor() {
+  var letters = '0123456789ABCDEF';
+  var color = '#';
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
