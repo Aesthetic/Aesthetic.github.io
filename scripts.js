@@ -70,3 +70,10 @@ function getRandomColor() {
   }
   return color;
 }
+
+document.getElementById('side1').style.backgroundColor = getRandomColor();
+document.getElementById('side2').style.backgroundColor = getRandomColor();
+document.getElementById('side3').style.backgroundColor = getRandomColor();
+document.getElementById('side4').style.backgroundColor = getRandomColor();
+document.getElementById('side5').style.backgroundColor = getRandomColor();
+document.getElementById('side6').style.backgroundColor = getRandomColor();
