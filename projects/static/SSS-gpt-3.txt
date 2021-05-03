@@ -1,0 +1,64 @@
+﻿Debate Topic: Should We Stop All Further Research of Intelligent Systems?
+
+
+Introduction: The field of AI research has taken leaps of progress unmatched in speed and stride. However, this rapid expansion has not gone unnoticed; it has given birth to the parallel and more philosophical field of AI ethics. AI Ethicists explore how to develop intelligent systems in a way that is safe, equitable, and aligned with our human desires. Today’s question takes a radical position within this ecosystem but is a genuine line of inquiry in the academic community, and to address it, I chose to focus on Scientific Optimism, the Integration of Facts and Values, Conspiracy Theories, and Pathological Science as they best encompass the range of issues and viewpoints that make up this fundamentally human topic. 
+
+
+Debaters: Will (In favor of a complete ban), GPT-3 (In favor of no restrictions at all)
+
+
+Context:
+1. Scientific Optimism
+Scientific optimism implies that with enough work, anything is possible. But for discoveries that impact the whole of humanity, that optimism can drive dangerous research onward.
+A. Inevitability
+We should ask the researchers what they see themselves achieving. Do they have limits on what they seek to discover? Does any level of work in this field move us ever closer to a singularity event?
+B. Benevolence
+Are the researchers assuming their creations will act as they wish? Have they put thought into the control mechanisms that would need to be in place on such a creation?
+C. Coherence
+Digital intelligence will be fundamentally different from that created by evolution. Will scientists have a tool to ensure the motives, purpose, and rationality of their creation can be explained and directed?
+
+
+2. Integrating Facts and Values
+Why do we want this?
+A. WHAT DO WE WISH THE MACHINES COULD DO?
+From the point of view of the average person, what is wanted from intelligent machines? What moral considerations will we encounter along the way? Is academic interest in a creation the public is ambivalent towards enough to take on the risks involved? Do the objectives of the developers align with those of humanity?
+B. WHAT CAN THEY ACTUALLY DO?
+What is the reality of the situation? Maybe science fiction has driven us to overstate the true theoretical capacity of such a system. Understanding of existing machine learning systems is already extremely low. a 2019 survey found that 67% of Gen Z thinks their phones are using their verbal conversations to tailor ads. This is not helped by sensationalist headlines like "You’re not paranoid. Your phone really is listening in." from Fox News. Any discussion of machine learning will need to actively address the existing mistrust and misunderstanding present in the population.
+C. HOW DO WE GET THE DATA TO FIND OUT?
+For more abstract tasks or ones requiring long-term planning, how do we monitor and oversee the actions of a potential machine system? How can we enable the operators of these systems to collect objective information on the subjective actions of the systems?
+
+
+3. Conspiracy Theories
+A. Superhuman Advisor
+If true machine intelligence were to be put into
+service, every one of its decisions would be the
+output of superhuman power. When discussing this
+question, we need to ask if our society is flexible
+enough to take the unleashing this tool in stride.
+B. Superhuman Storyteller
+Learning models are already capable of writing
+convincing--but completely fabricated--works of
+text. What happens if the world at large gets
+access to a machine that could stoke division, fear,
+and propaganda among thousands of people at
+once through fabricated news and social media
+posts. Is this something we will ever be ready to
+fight against?
+
+
+4. Pathological Science
+A. Reliability
+How do we quantify the decisions made by an AI? To even say as much introduces an element of operationalism, as it is impossible to know to what extent a machine "decides" anything. The process by which an intelligent system comes to a conclusion is opaque and often convoluted, which may impact attempts at empirical study.
+B. Profit Incentive
+There is a massive profit incentive to develop intelligent systems in nearly every commercial field and practically none towards the development of safety and protocols. When there are billions of dollars backing a venture, how can we ensure researchers in the private sector act with good intentions?
+C. Humanization
+With the rise of digital assistants, we have seen how people will personify even the simplest of conversational agents. There is a huge risk to objectivity when a researcher begins to think of their creation as a living entity. Unless we develop a fundamentally different framework, appeals to our emotion by artificial intelligence are a powerful tool they can use to further an underlying agenda.
+
+
+Closing Remarks:
+Will: As a computer science student, I entered this project with an acute understanding of the impossibility of stopping what
+we've started. We are a ravenously curious species with a near-universal aversion to forbidden knowledge. And yet, after
+analyzing the problem through the lenses I presented, I am convinced we are not ready for this. Artificial Intelligence is to computer science as gene drives are to synthetic biology. Both are ultimately powerful tools—whose deployment is frighteningly accessible—that we lack the ability to counter. My recommendation is to prohibit the research and development of intelligent machines. Our resources should instead be directed at fundamental research until such a time that we are adequately prepared to deal with the fallout of a malicious machine. is a thinking computer really what we want to create? How can we maximize the good they will create for humanity and most importantly: how do we remain in control?
+
+
+GPT-3:
